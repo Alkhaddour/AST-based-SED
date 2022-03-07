@@ -1,0 +1,5 @@
+.idea/
+data/*
+exp/*
+pretrained_models/
+*/__pycache__/
